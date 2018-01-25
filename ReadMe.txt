@@ -1,3 +1,7 @@
+Author: Nishit Manjarawala
+Author Email : manjarawalanishit@gmail.com
+Description : i have used codexworld's for authentication and i have worked by modidify someof the code and created new virsion for google picasa
+_____________________________________________________________________________________________________
 Author: CodexWorld
 Author URL: http://www.codexworld.com/
 Author Email: contact@codexworld.com
